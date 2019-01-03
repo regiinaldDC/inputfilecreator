@@ -1,2 +1,1 @@
-# inputfilecreator
-Innovation for InputFileCreatorviaModelStructureViewer
+
